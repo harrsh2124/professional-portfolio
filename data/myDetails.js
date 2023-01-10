@@ -47,10 +47,11 @@ const MyData = {
         'Express JS',
         'Mongo DB',
         'MySQL',
-        'Linux',
-        'AWS EC2',
+        'Redux / Redux Toolkit',
         'Context API',
-        'Prisma'
+        'Prisma',
+        'Linux',
+        'Server mangement'
     ],
 
     workHistory: [
