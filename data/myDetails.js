@@ -45,13 +45,12 @@ const MyData = {
         'React JS',
         'Next JS',
         'Express JS',
-        'Nest JS',
         'Mongo DB',
         'MySQL',
-        'Python',
-        'Django',
-        'Flask',
-        'Linux'
+        'Linux',
+        'AWS EC2',
+        'Context API',
+        'Prisma'
     ],
 
     workHistory: [
@@ -63,8 +62,8 @@ const MyData = {
             duration: 'April 2022 - Present',
             details: [
                 'Worked on a desktop app for IoT devices to measure ECG of patients.',
-                'Working on server and admin panel for a security company.',
-                'Working with a complete remote team and managing the server and admin panel effectively.'
+                'Worked on server and admin panel for a security company. Worked with a complete remote team and managing the server and admin panel effectively.',
+                'Worked as a project technical lead for online salon services booking application, where I managed a team of backend and frontend developers. I Bootstrapped an admin panel for back office management and a server for the admin panel, app for customers and app for service providers.'
             ]
         },
         {
